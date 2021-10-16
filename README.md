@@ -28,3 +28,6 @@ $ pip install -r requirements.txt
 ```shell
 $ jupyter-lab
 ```
+
+## Help
+Use conda cheat sheet from [here](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html) for quick conda command reference.
