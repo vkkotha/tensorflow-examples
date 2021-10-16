@@ -2,6 +2,7 @@
 Collection of examples to learn tensorflow
 
 ## Prerequisties
+- ubuntu 21.x
 - python3
 - git
 
