@@ -6,6 +6,7 @@ Collection of examples to learn tensorflow
 - python 3.9
 - conda
 - git
+- wget
 
 ## Setup
 ### Install conda
